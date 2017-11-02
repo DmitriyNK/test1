@@ -32,6 +32,7 @@ namespace IntraCoffee.Domain.Model
 
         /// <summary>
         /// Описание
+	/// тест тест тест
         /// </summary>
         [Required]
         public string Description { get; set; }
